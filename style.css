@@ -3,3 +3,10 @@ header {
     background-color: #ff0000;
     color: white;
 }
+.escola-imagem{
+    width:30%;
+    }
+    .escola {
+        background-image: linear-gradient(#000000,#EC1111);
+        color: white;
+        display:flex;}
